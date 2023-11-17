@@ -65,11 +65,11 @@ git push origin main
 
 ## DEPLOYMENT ⚙️
 
-The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://www.dartvader.cloud/](https://www.dartvader.cloud/) or [this link](https://www.dartvader.cloud/).
+The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://alrickindo.dartvader.cloud/](https://alrickindo.dartvader.cloud/) or [this link](https://alrickindo.dartvader.cloud/).
 
 ### Deployment status :
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a9be8e5e-574a-4a65-9886-9920c468567e/deploy-status)](https://app.netlify.com/sites/prismatic-seahorse-8a8d12/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f459b63-ef8d-4352-99a4-9efe96466988/deploy-status)](https://app.netlify.com/sites/glittery-horse-3be537/deploys)
 
 ---
 
